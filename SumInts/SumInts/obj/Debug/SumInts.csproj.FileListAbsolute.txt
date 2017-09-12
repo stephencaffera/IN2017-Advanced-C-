@@ -1,0 +1,10 @@
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\bin\Debug\SumInts.exe.config
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\bin\Debug\SumInts.exe
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\bin\Debug\SumInts.pdb
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.MainWindow.resources
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.Properties.Resources.resources
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.csproj.GenerateResource.Cache
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.exe
+C:\Users\Stephen\OneDrive\Programs\SumInts\SumInts\obj\Debug\SumInts.pdb

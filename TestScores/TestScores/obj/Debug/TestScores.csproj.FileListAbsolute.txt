@@ -1,0 +1,10 @@
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.MainWindow.resources
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.Properties.Resources.resources
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.csproj.GenerateResource.Cache
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\Stephen\OneDrive\Programs\TestScores\TestScores\obj\Debug\TestScores.pdb
