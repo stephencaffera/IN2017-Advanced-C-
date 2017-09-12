@@ -1,2 +1,2 @@
-# IN2017-Advanced-C-
+# IN2017_Advanced_C-Sharp
 All programming assignments for Advanced C# at Butler Community College
