@@ -1,0 +1,6 @@
+1.) "Did your programs run as expected?"
+  For the most part, they did. There were some occasions when I forgot to change the visibility of my labels, and had to go back and change that property so the proper information was visible after user input.
+2.) "What was the most difficult concept?"
+  The most difficult concept I had to deal with while programming these applications was the scope of members. Because of classes being private, I couldn't access certain methods or variables in the way that felt most natural.
+3.) "How long did it take to complete?"
+  The total time I spent coding all the assignments for Module 2 was probably around three hours. Most of that time was spent refamiliarizing myself with how to create GUIs in Visual Studio, since it had been a while since the last time I had done so. The logic of the programs took very little time comparitively.
